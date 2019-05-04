@@ -10,7 +10,7 @@ while still having a full scale TCP. This making lwIP suitable for use
 in embedded systems with tens of kilobytes of free RAM and room for
 around 40 kilobytes of code ROM.
 
-FEATURES
+## FEATURES
 
   * IP (Internet Protocol) including packet forwarding over multiple network
     interfaces
