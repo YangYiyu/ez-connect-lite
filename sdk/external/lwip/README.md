@@ -1,4 +1,4 @@
-## INTRODUCTION
+### INTRODUCTION
 
 lwIP is a small independent implementation of the TCP/IP protocol
 suite that has been developed by Adam Dunkels at the Computer and
@@ -10,7 +10,7 @@ while still having a full scale TCP. This making lwIP suitable for use
 in embedded systems with tens of kilobytes of free RAM and room for
 around 40 kilobytes of code ROM.
 
-## FEATURES
+### FEATURES
 
   * IP (Internet Protocol) including packet forwarding over multiple network
     interfaces
@@ -28,11 +28,11 @@ around 40 kilobytes of code ROM.
   * PPP (Point-to-Point Protocol)
   * ARP (Address Resolution Protocol) for Ethernet
 
-LICENSE
+### LICENSE
 
 lwIP is freely available under a BSD license.
 
-DEVELOPMENT
+### DEVELOPMENT
 
 lwIP has grown into an excellent TCP/IP stack for embedded devices,
 and developers using the stack often submit bug fixes, improvements,
@@ -61,7 +61,7 @@ Submit patches and bugs via the lwIP project page:
   http://savannah.nongnu.org/projects/lwip/
 
 
-DOCUMENTATION
+### DOCUMENTATION
 
 The original out-dated homepage of lwIP and Adam Dunkels' papers on
 lwIP are at the official lwIP home page:
